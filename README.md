@@ -1,4 +1,4 @@
-This is an example of pricing American Call option using Monte Carlo simulation./n
+This is an example of pricing American Call option using Monte Carlo simulation.
 
 Monte Carlo Simulation has distinct advantages as it is suited for path dependent derivatives or in cases where there can be multiple stochastic variables.
 
